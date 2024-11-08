@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>988242246226-n7r8d71jdj83htcahmckpff6on5faam1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.988242246226-n7r8d71jdj83htcahmckpff6on5faam1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBA9gH33-WfDx-KsrubxibUEpY-5tfEEj8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>988242246226</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.samysalim</string>
+	<key>PROJECT_ID</key>
+	<string>samysalim-766d5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>samysalim-766d5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:988242246226:ios:016ca1c4ffc0030a423d8b</string>
+	<key>DATABASE_URL</key>
+	<string>https://samysalim-766d5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

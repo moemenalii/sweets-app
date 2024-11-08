@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "988242246226",
+    "firebase_url": "https://samysalim-766d5-default-rtdb.firebaseio.com",
+    "project_id": "samysalim-766d5",
+    "storage_bucket": "samysalim-766d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988242246226:android:4ffc98adf27bc136423d8b",
+        "android_client_info": {
+          "package_name": "com.example.samysalim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988242246226-vdaiertivlqs08hu7erp2pq85h9f17jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4w-uAG0lEjmn4gmezZCPqKDSvbbO-l4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988242246226-vdaiertivlqs08hu7erp2pq85h9f17jj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988242246226-bq0qdcd6j8ecdug6gru22tlrn27euf6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.momo.samysalim"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988242246226:android:8df0f33a651f0e8d423d8b",
+        "android_client_info": {
+          "package_name": "com.momo.samysalim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988242246226-vdaiertivlqs08hu7erp2pq85h9f17jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4w-uAG0lEjmn4gmezZCPqKDSvbbO-l4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988242246226-vdaiertivlqs08hu7erp2pq85h9f17jj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988242246226-bq0qdcd6j8ecdug6gru22tlrn27euf6l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.momo.samysalim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
